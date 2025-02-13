@@ -8,7 +8,6 @@
 - 🏆 **Winner of CodeMasters'23** conducted by **CodeQuotient**.  
 - 🚀 **Built multiple projects**, check them out on my www.linkedin.com/in/jashanpreet-singh-b89932252
 
-**.  
 - 🔥 Enthusiastic about **Problem-Solving, Competitive Programming, and Open Source**.  
 
 ---
